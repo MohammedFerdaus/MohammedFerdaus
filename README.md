@@ -10,7 +10,7 @@ ______        Mohammed Ferdaus
 \ \ \____      • Future Research Paper: Fourier Neural Operators (FNOs) 
  \ \_____\       for optimization in the calculus of variations.
   \/_____/     • Future Research (PHD): Active inference & free energy 
-                 principle as a unifying framework for adaptive agents
+                 principle as a unifying framework for adaptive agents.
 
  __            Interests
 /\ \           ----------------------------------------------------------
