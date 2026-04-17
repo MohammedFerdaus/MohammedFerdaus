@@ -1,24 +1,29 @@
-Profile readme · MDCopy<table>
-  <tr>
-    <td valign="top" width="160px">
-      <img src="alien.png" width="150px"/>
-    </td>
-    <td valign="top">
-      <b>Mohammed Ferdaus</b><br/>
-      -------------------------<br/><br/>
-      Interests: Computational Mathematics<br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Scientific Machine Learning (SciML)<br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Foundational Machine Learning<br/><br/>
-      <b>In Progress</b><br/>
-      -----------<br/>
-      Julia Differential Equations<br/>
-      Julia ML Methods From Scratch &nbsp;(CS229 / CS230 / CS234)<br/>
-      Python 2D Chemistry Simulator<br/><br/>
-      <b>Planned</b><br/>
-      -------<br/>
-      Julia Probabilistic Programming<br/>
-      Julia Scientific Machine Learning<br/>
-      Julia Low Level Programming Integration<br/>
-    </td>
-  </tr>
-</table>
+ __  __        Mohammed Ferdaus
+/\ \_\ \       ----------------------------------------
+\ \  __ \      
+ \ \_\ \_\     Interests
+  \/_/\/_/     --------
+               Computational Mathematics
+ ______        Scientific Machine Learning (SciML)
+/\  ___\       Foundational Machine Learning
+\ \  __\       
+ \ \_____\     ----------------------------------------
+  \/_____/     
+               
+ __            In Progress
+/\ \           -----------
+\ \ \____      Julia Differential Equations     [▮▮▮▯▯]
+ \ \_____\     Julia ML Methods From Scratch    [▮▯▯▯▯]
+  \/_____/     Python 2D Chemistry Simulator    [▮▮▯▯▯]
+               
+ __            ----------------------------------------
+/\ \           
+\ \ \____      Planned
+ \ \_____\     -------
+  \/_____/     Julia Probabilistic Programming
+               
+ ______        Julia Scientific Machine Learning
+/\  __ \       Julia Low Level Programming Integration
+\ \ \/\ \      
+ \ \_____\     
+  \/_____/     
