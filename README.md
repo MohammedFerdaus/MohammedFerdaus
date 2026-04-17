@@ -9,8 +9,8 @@ ______        Mohammed Ferdaus
 /\  ___\         startup using sciML models to solve real world problems.
 \ \ \____      • Future Research Ideas: Fourier Neural Operators (FNOs) 
  \ \_____\       for optimization in the calculus of variations.
-  \/_____/     • Future Research: Contributions to Reinforcement Learning 
-                 theory.
+  \/_____/     • Future Research: Active inference & the free energy 
+                 principle as a unifying framework for adaptive agents
 
  __            Interests
 /\ \           ----------------------------------------------------------
