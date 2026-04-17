@@ -1,30 +1,32 @@
 ```text
- __  __        Mohammed Ferdaus
-/\ \_\ \       ----------------------------------------
-\ \  __ \      
- \ \_\ \_\     Interests
-  \/_/\/_/     ----------------------------------------
-               Computational Mathematics
- ______        Scientific Machine Learning (SciML)
-/\  ___\       Foundational Machine Learning
-\ \  __\       
- \ \_____\     ----------------------------------------
-  \/_____/     
+______        Mohammed Ferdaus
+/\  ___\       ----------------------------------------------------------
+\ \___  \      About Me
+ \/\_____\     ----------------------------------------------------------
+  \/_____/     • Aspire to pursue a PhD at top-tier institutions including
+                 Stanford ICME, Princeton PACM, or UCL Gatsby.
+ ______        • Aim to establish a for-profit research lab and deep-tech
+/\  ___\         startup.
+\ \ \____      • Currently researching Fourier Neural Operators (FNOs) for
+ \ \_____\       optimization in the calculus of variations and 
+  \/_____/       reinforcement learning theory.
+
+ __            Interests
+/\ \           ----------------------------------------------------------
+\ \ \____      • Computational Mathematics
+ \ \_____\     • Deep Learning
+  \/_____/     • Scientific Machine Learning (SciML)
+               • Foundational Machine Learning
+ __    __      
+/\ "-./  \     In Progress
+\ \ \-./\ \    ----------------------------------------------------------
+ \ \_\ \ \_\   • Julia Differential Equations          [▮▮▮▯▯]
+  \/_/  \/_/   • Julia ML Methods From Scratch         [▮▯▯▯▯]
+               • Python 2D Chemistry Simulator         [▮▮▯▯▯]
                
- __            In Progress
-/\ \           ----------------------------------------
-\ \ \____      Julia Differential Equations     [▮▯▯▯▯]
- \ \_____\     Julia ML Methods From Scratch    [▮▯▯▯▯]
-  \/_____/     Python 2D Chemistry Simulator    [▮▮▯▯▯]
-               
- __            ----------------------------------------
-/\ \           
-\ \ \____      Planned
- \ \_____\     ----------------------------------------
-  \/_____/     Julia Probabilistic Programming
- ______        Julia Scientific Machine Learning
-/\  __ \       Julia Low Level Programming Integration
-\ \ \/\ \      
- \ \_____\     
-  \/_____/     
+ __            Planned
+/\ \           ----------------------------------------------------------
+\ \ \____      • Julia Probabilistic Programming
+ \ \_____\     • Julia Scientific Machine Learning
+  \/_____/     • Julia Low Level Programming Integration
 ```
