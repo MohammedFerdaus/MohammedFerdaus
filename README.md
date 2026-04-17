@@ -3,26 +3,27 @@ ______        Mohammed Ferdaus
 /\  ___\       ----------------------------------------------------------
 \ \___  \      About Me
  \/\_____\     ----------------------------------------------------------
-  \/_____/     • Aspire to pursue a PhD at top-tier institutions including
-                 Stanford ICME, Princeton PACM, or UCL Gatsby.
- ______        • Aim to establish a for-profit research lab and deep-tech
-/\  ___\         startup.
-\ \ \____      • Currently researching Fourier Neural Operators (FNOs) for
- \ \_____\       optimization in the calculus of variations and 
-  \/_____/       reinforcement learning theory.
+  \/_____/     • Pursuing PhD candidacy at Stanford ICME, Princeton PACM, 
+                 or UCL Gatsby.
+ ______        • Goal to launch a for-profit research lab and deep-tech 
+/\  ___\         startup using sciML models to solve real world problems.
+\ \ \____      • Future Research Ideas: Fourier Neural Operators (FNOs) 
+ \ \_____\       for optimization in the calculus of variations.
+  \/_____/     • Future Research: Contributions to Reinforcement Learning 
+                 theory.
 
  __            Interests
 /\ \           ----------------------------------------------------------
-\ \ \____      • Computational Mathematics
- \ \_____\     • Deep Learning
-  \/_____/     • Scientific Machine Learning (SciML)
+\ \ \          • Reinforcement Learning
+ \ \_\         • Deep Learning
+  \/_/         • Scientific Machine Learning (SciML)
                • Foundational Machine Learning
- __    __      
-/\ "-./  \     In Progress
-\ \ \-./\ \    ----------------------------------------------------------
- \ \_\ \ \_\   • Julia Differential Equations          [▮▮▮▯▯]
-  \/_/  \/_/   • Julia ML Methods From Scratch         [▮▯▯▯▯]
-               • Python 2D Chemistry Simulator         [▮▮▯▯▯]
+
+ __    __      In Progress
+/\ "-./  \     ----------------------------------------------------------
+\ \ \-./\ \    • Julia Differential Equations          [▮▯▯▯▯]
+ \ \_\ \ \_\   • Julia ML Methods From Scratch         [▮▯▯▯▯]
+  \/_/  \/_/   • Python 2D Chemistry Simulator         [▮▮▯▯▯]
                
  __            Planned
 /\ \           ----------------------------------------------------------
