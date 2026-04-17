@@ -9,7 +9,7 @@ ______        Mohammed Ferdaus
 /\  ___\         using sciML models to solve real world problems.
 \ \ \____      • Future Research Paper (1): Fourier Neural Operators (FNOs) 
  \ \_____\       for optimization functions in the calculus of variations.
-  \/_____/     • Future Research paper (2) Goals: Active inference & free energy 
+  \/_____/     • Future Research paper (2): Active inference & free energy 
                  principle as a unifying framework for adaptive agents.
 
  __            Interests 
