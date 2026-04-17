@@ -7,9 +7,9 @@ ______        Mohammed Ferdaus
                  or UCL Gatsby.
  ______        • Goal to launch a for-profit research lab and deep-tech 
 /\  ___\         startup using sciML models to solve real world problems.
-\ \ \____      • Future Research Ideas: Fourier Neural Operators (FNOs) 
+\ \ \____      • Future Research Paper: Fourier Neural Operators (FNOs) 
  \ \_____\       for optimization in the calculus of variations.
-  \/_____/     • Future Research: Active inference & the free energy 
+  \/_____/     • Future Research (PHD): Active inference & free energy 
                  principle as a unifying framework for adaptive agents
 
  __            Interests
