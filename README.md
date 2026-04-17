@@ -5,19 +5,18 @@ ______        Mohammed Ferdaus
  \/\_____\     ----------------------------------------------------------
   \/_____/     • Pursuing PhD candidacy at Stanford ICME, Princeton PACM, 
                  or UCL Gatsby.
- ______        • Goal to launch a for-profit research lab and deep-tech 
-/\  ___\         startup using sciML models to solve real world problems.
-\ \ \____      • Future Research Paper: Fourier Neural Operators (FNOs) 
- \ \_____\       for optimization in the calculus of variations.
-  \/_____/     • Future Research (PHD): Active inference & free energy 
+ ______        • Goal to launch a for-profit research lab / deep-tech startup
+/\  ___\         using sciML models to solve real world problems.
+\ \ \____      • Future Research Paper (1): Fourier Neural Operators (FNOs) 
+ \ \_____\       for optimization functions in the calculus of variations.
+  \/_____/     • Future Research paper (2) Goals: Active inference & free energy 
                  principle as a unifying framework for adaptive agents.
 
- __            Interests
+ __            Interests 
 /\ \           ----------------------------------------------------------
-\ \ \          • Reinforcement Learning
- \ \_\         • Deep Learning
+\ \ \          • Reinforcement Learning / Deep Learning
+ \ \_\         • Foundational Machine Learning
   \/_/         • Scientific Machine Learning (SciML)
-               • Foundational Machine Learning
 
  __    __      In Progress
 /\ "-./  \     ----------------------------------------------------------
