@@ -1,12 +1,12 @@
 ```text
-______        Mohammed Ferdaus
+______        Mohammed Ferdaus :)
 /\  ___\       ----------------------------------------------------------
 \ \___  \      About Me
  \/\_____\     ----------------------------------------------------------
-  \/_____/     • Pursuing PhD candidacy at Stanford ICME, Princeton PACM, 
-                 or UCL Gatsby.
- ______        • Goal to launch a for-profit research lab / deep-tech startup
-/\  ___\         using sciML models to solve real world problems.
+  \/_____/     • Big fan of scientific machine learning, computational mathematics,
+                 and theoretical/foundational machine learning research.
+ ______        • Goal is to launch a for-profit research lab / deep-tech startup
+/\  ___\         using sciML models to solve real world problems one day.
 \ \ \____      • Future Research Paper (1): Fourier Neural Operators (FNOs) 
  \ \_____\       for optimization functions in the calculus of variations.
   \/_____/     • Future Research paper (2): Heat Kernel Neural Networks (HKNNs) for
