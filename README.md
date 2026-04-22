@@ -22,7 +22,7 @@ ______        Mohammed Ferdaus :)
 /\ "-./  \     ----------------------------------------------------------
 \ \ \-./\ \    • Julia Differential Equations          [▮▯▯▯▯]
  \ \_\ \ \_\   • Julia ML/DL/RL Methods From Scratch   [▮▯▯▯▯]
-  \/_/  \/_/   • Python 2D Chemistry Simulator         [▮▮▮▮▯]
+  \/_/  \/_/   • Julia Scientific Machine Learning     [▯▯▯▯▯]
                
  __            Planned
 /\ \           ----------------------------------------------------------
