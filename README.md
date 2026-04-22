@@ -27,6 +27,6 @@ ______        Mohammed Ferdaus :)
  __            Planned
 /\ \           ----------------------------------------------------------
 \ \ \____      • Julia Probabilistic Programming
- \ \_____\     • Julia Scientific Machine Learning
+ \ \_____\     • Multi-Model sciML apprach to the brachistochrone problem
   \/_____/     • Julia Low Level Programming Integration
 ```
