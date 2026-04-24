@@ -28,6 +28,6 @@ ______        Mohammed Ferdaus :)
 /\ \           ----------------------------------------------------------
 \ \ \____      • Julia Probabilistic Programming
  \ \_____\     • Multi-Model sciML apprach to familys of functionals
-  \/_____/     • Physics Constranied FNO for hallucination resistant
+  \/_____/     • Physics constrained FNO for hallucination resistant
                speech recognition
 ```
