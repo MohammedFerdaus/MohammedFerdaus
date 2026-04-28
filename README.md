@@ -21,7 +21,7 @@ ______        Mohammed Ferdaus :)
  __    __      In Progress
 /\ "-./  \     ----------------------------------------------------------
 \ \ \-./\ \    • Julia Differential Equations          [▮▮▯▯▯]
- \ \_\ \ \_\   • Julia ML/DL/RL Methods From Scratch   [▮▯▯▯▯]
+ \ \_\ \ \_\   • Python ML/DL/RL Methods From Scratch  [▮▯▯▯▯]
   \/_/  \/_/   • Julia Scientific Computing            [▯▯▯▯▯]
                
  __            Planned
