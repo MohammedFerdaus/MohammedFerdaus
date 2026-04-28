@@ -7,10 +7,10 @@ ______        Mohammed Ferdaus :)
                  and theoretical/foundational machine learning research.
  ______        • Goal is to launch a for-profit research lab / deep-tech startup
 /\  ___\         using sciML models to solve real world problems one day.
-\ \ \____      • Future Research Paper (1): Fourier Neural Operators (FNOs) 
- \ \_____\       for optimization functions in the calculus of variations.
-  \/_____/     • Future Research paper (2): Heat Kernel Neural Networks (HKNNs) for
-                 learning diffusion via heat-kernel convolution operators on manifolds / graphs.
+\ \ \____      • Interested in scientific machine learning — particularly using neural operators
+ \ \_____\       & physics-informed methods to solve problems in mathematics and the physical sciences.
+  \/_____/     • Interested in the theoretical and foundational side of ML, including geometric deep
+                 learning, kernel methods, and learning on manifolds & graphs.
 
  __            Interests 
 /\ \           ----------------------------------------------------------
