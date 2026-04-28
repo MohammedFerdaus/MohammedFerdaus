@@ -20,9 +20,9 @@ ______        Mohammed Ferdaus :)
 
  __    __      In Progress
 /\ "-./  \     ----------------------------------------------------------
-\ \ \-./\ \    • Julia Differential Equations          [▮▯▯▯▯]
+\ \ \-./\ \    • Julia Differential Equations          [▮▮▯▯▯]
  \ \_\ \ \_\   • Julia ML/DL/RL Methods From Scratch   [▮▯▯▯▯]
-  \/_/  \/_/   • Julia Scientific Machine Learning     [▯▯▯▯▯]
+  \/_/  \/_/   • Julia Scientific Computing            [▯▯▯▯▯]
                
  __            Planned
 /\ \           ----------------------------------------------------------
