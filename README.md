@@ -1,8 +1,8 @@
 ```text
 ______        Mohammed Ferdaus :)
-/\  ___\       ----------------------------------------------------------
+/\  ___\       -----------------------------------------------------------------------------------------
 \ \___  \      About Me
- \/\_____\     ----------------------------------------------------------
+ \/\_____\     -----------------------------------------------------------------------------------------
   \/_____/     • Big fan of scientific machine learning, computational mathematics,
                  and theoretical/foundational machine learning research.
  ______        • Goal is to launch a for-profit research lab / deep-tech startup
@@ -13,21 +13,19 @@ ______        Mohammed Ferdaus :)
                  learning, kernel methods, and learning on manifolds & graphs.
 
  __            Interests 
-/\ \           ----------------------------------------------------------
+/\ \           -----------------------------------------------------------------------------------------
 \ \ \          • Reinforcement Learning / Deep Learning
  \ \_\         • Foundational Machine Learning
   \/_/         • Scientific Machine Learning (SciML)
 
  __    __      In Progress
-/\ "-./  \     ----------------------------------------------------------
-\ \ \-./\ \    • Julia Differential Equations          [▮▮▯▯▯]
- \ \_\ \ \_\   • Python ML/DL/RL Methods From Scratch  [▮▯▯▯▯]
-  \/_/  \/_/   • Julia Scientific Computing            [▯▯▯▯▯]
-               
- __            Planned
-/\ \           ----------------------------------------------------------
-\ \ \____      • Julia Probabilistic Programming
- \ \_____\     • Multi-Model sciML apprach to familys of functionals
-  \/_____/     • Physics constrained FNO for hallucination resistant
-               speech recognition
+/\ "-./  \     -----------------------------------------------------------------------------------------
+\ \ \-./\ \    • Multi-Model sciML apprach to familys of functionals familys of functionals  [▯▯▯▯▯]
+ \ \_\ \ \_\   • Physics constrained FNO for hallucination resistant speech recognition      [▮▯▯▯▯]
+  \/_/  \/_/   • EML-Net exploring the EML operator as a universal                           
+ __            • elementary function embedding for neural networks                           [▮▯▯▯▯]
+/\ \          
+\ \ \____   
+ \ \_____\
+  \/_____/    
 ```
